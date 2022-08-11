@@ -1,5 +1,3 @@
-# Webpack5
+https://ci.appveyor.com/api/projects/status/aw8ymtuy9yt2ck61?svg=true
 
-[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
-
-[Migration Guide](https://webpack.js.org/migrate/5/)
+https://alexwebart.github.io/AHJ-Working_environment_yarn/
